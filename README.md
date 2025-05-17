@@ -19,9 +19,13 @@ A clean and modern **mini project** built with semantic HTML5 and powerful CSS G
 
 ## 📁 Folder Structure
 
-MOD.05_-CSS-Grid-Landing-Page/
+MOD.05_-CSS-Grid-Landing-Page
+
+
 ├── index.html 
+|
 ├── style.css 
+|
 └── video.mp4 
 
 ## 💡 Use Cases
