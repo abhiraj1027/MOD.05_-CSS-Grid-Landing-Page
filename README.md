@@ -24,6 +24,26 @@ MOD.05_-CSS-Grid-Landing-Page/
 ├── style.css // Styling with CSS Grid & media queries
 └── video.mp4 // Background video (autoplay, muted)
 
+## 💡 Use Cases
+
+Mini project for frontend UI/UX design portfolio
+Practice project to demonstrate responsive design principles
+Showcase of semantic HTML and CSS Grid mastery
+Visual storytelling with minimal code
+
+## 📱 Mobile View
+
+<img width="434" alt="Screenshot 2025-05-17 at 7 33 16 PM" src="https://github.com/user-attachments/assets/643aff15-6179-43f0-9e46-93d7067f963b" />
+
+## 🖥️ Desktop / Website view
+
+<img width="1469" alt="Screenshot 2025-05-17 at 7 34 56 PM" src="https://github.com/user-attachments/assets/8d935efa-2f78-4399-8fe2-ea49c68a421c" />
+
+## 👨‍💻 Author
+
+Abhiraj Chauhan
+Frontend Developer | ML & AI Enthusiast
+🔗 GitHub
 
 ## 🚀 Getting Started
 
@@ -31,20 +51,7 @@ To view the project locally:
 
 ```bash
 git clone https://github.com/abhiraj1027/MOD.05_-CSS-Grid-Landing-Page.git
-cd MOD.05_-CSS-Grid-Landing-Page
+cd MOD.05_-CSS-Grid-Landing-Page.
 
-Then open index.html in your browser.
 
-💡 Use Cases
-Mini project for frontend UI/UX design portfolio
 
-Practice project to demonstrate responsive design principles
-
-Showcase of semantic HTML and CSS Grid mastery
-
-Visual storytelling with minimal code
-
-👨‍💻 Author
-Abhiraj Chauhan
-Frontend Developer | ML & AI Enthusiast
-🔗 GitHub
