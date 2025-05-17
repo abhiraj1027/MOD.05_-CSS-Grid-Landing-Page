@@ -20,16 +20,19 @@ A clean and modern **mini project** built with semantic HTML5 and powerful CSS G
 ## 📁 Folder Structure
 
 MOD.05_-CSS-Grid-Landing-Page/
-├── index.html // Main HTML file
-├── style.css // Styling with CSS Grid & media queries
-└── video.mp4 // Background video (autoplay, muted)
+├── index.html 
+├── style.css 
+└── video.mp4 
 
 ## 💡 Use Cases
 
-Mini project for frontend UI/UX design portfolio
-Practice project to demonstrate responsive design principles
-Showcase of semantic HTML and CSS Grid mastery
-Visual storytelling with minimal code
+->Mini project for frontend UI/UX design portfolio
+
+->Practice project to demonstrate responsive design principles
+
+->Showcase of semantic HTML and CSS Grid mastery
+
+->Visual storytelling with minimal code
 
 ## 📱 Mobile View
 
