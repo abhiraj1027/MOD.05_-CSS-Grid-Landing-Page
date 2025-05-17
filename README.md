@@ -39,12 +39,6 @@ Visual storytelling with minimal code
 
 <img width="1469" alt="Screenshot 2025-05-17 at 7 34 56 PM" src="https://github.com/user-attachments/assets/8d935efa-2f78-4399-8fe2-ea49c68a421c" />
 
-## 👨‍💻 Author
-
-Abhiraj Chauhan
-Frontend Developer | ML & AI Enthusiast
-🔗 GitHub
-
 ## 🚀 Getting Started
 
 To view the project locally:
